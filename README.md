@@ -23,7 +23,7 @@
 ## Demo
 
 <p align="center">
-  <video src="./assets/demo.mp4" poster="./assets/hero.png" width="700" controls>
+  <video src="./assets/demo.gif" poster="./assets/Thumbnail.png" width="700" controls>
   </video>
 </p>
 
