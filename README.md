@@ -23,7 +23,8 @@
 ## Demo
 
 <p align="center">
-  <img src="assets/hero.png" alt="MorseGesture running on Apple Watch" width="700" />
+  <video src="assets/demo.mp4" poster="assets/hero.png" width="700" controls>
+  </video>
 </p>
 
 > **Watch the full demo:** A screen recording is included at [`assets/demo.mp4`](assets/demo.mp4). It shows the app running on an Apple Watch Ultra, with the user inputting Morse code entirely through wrist gestures, decoded in real time with live preview and text-to-speech.
