@@ -9,9 +9,13 @@
 </p>
 
 <p align="center">
+  <em>Designed and Developed by <a href="https://github.com/rijulchaturvedi">Rijul Chaturvedi</a></em>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/platform-watchOS-blue" alt="Platform: watchOS" />
   <img src="https://img.shields.io/badge/swift-5.9+-orange" alt="Swift 5.9+" />
-  <img src="https://img.shields.io/badge/license-MIT-green" alt="License: MIT" />
+  <img src="https://img.shields.io/badge/license-proprietary-red" alt="License: Proprietary" />
 </p>
 
 ---
@@ -242,14 +246,21 @@ L  .-..    Y  -.--
 M  --      Z  --..
 ```
 
-## Contributing
+## Important Notice
 
-This project is in active development. If you have ideas for improving gesture detection accuracy, expanding the shortcut library, or adding new input modalities, feel free to open an issue or submit a pull request.
+> **This project is proprietary software.** The source code is published on GitHub for portfolio and reference purposes only. You may **not** copy, modify, distribute, or use any part of this codebase in your own projects without explicit written permission from the author. See the [LICENSE](LICENSE) file for full terms.
+
+If you are interested in collaborating, licensing the technology, or adapting this for a specific accessibility need, please reach out directly.
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+Copyright (c) 2025-2026 Rijul Chaturvedi. All rights reserved.
 
-## Acknowledgments
+This software is proprietary. No permission is granted to use, copy, modify, merge, publish, distribute, sublicense, or sell copies of this software. See [LICENSE](LICENSE) for the full license text.
 
-Built with the goal of giving a voice back to people who are losing theirs. If this app helps even one person communicate more easily, it was worth every line of code.
+---
+
+<p align="center">
+  Designed and Developed by <strong>Rijul Chaturvedi</strong><br/>
+  Built with the goal of giving a voice back to people who are losing theirs.
+</p>
